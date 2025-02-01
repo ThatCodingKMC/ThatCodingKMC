@@ -1,4 +1,6 @@
-## Hi there 👋
+## About Me
+
+I'm a computer science student at UCF about to graduate summer 2025 with my BS and a minor in business. After graduation I hope to work while also studying for a masters in computer engineering. I focus my studies on embedded software and cybersecurity. I've also worked/studied web development and mapping softwares. For fun I contribute to projects like pwn.college or create cyber ctf challenges for competitions. 
 
 <!--
 **ThatCodingKMC/ThatCodingKMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
